@@ -29,7 +29,7 @@ If you encounter any issues, feel free to open an issue on the repository or sen
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/1ssb/froom/}}
+  howpublished = {\url{https://github.com/1ssb/roomie/}}
 }
 ``
 
