@@ -12,7 +12,7 @@ Note: Yolov8.pt and SAM_L.pt will be downloaded (automatically). You may use the
 Froom uses ChatGPT-GPT-3.5-turbo, with a prompt engineered for regularized expressions.
 
 # Usage
- - Clone this repository.
+ - Clone this repository: ``git clone https://github.com/1ssb/froom.git``
  - Make sure you have pip installed the above requirements. Be specifically careful about the python version.
  - Make sure you replace the openai api id with your own in froom.py. Follow this link: https://elephas.app/blog/how-to-get-chatgpt-api-key-clh93ii2e1642073tpacu6w934j
  - Create a directory ./images under root. Upload images to the ./images/ directory.
