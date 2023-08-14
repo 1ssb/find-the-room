@@ -25,7 +25,7 @@ If you encounter any issues, feel free to open an issue on the repository or sen
 ``
 @misc{froom,
   author = {Subhransu Bhattacharjee},
-  title = {Froom: An embodied agent that tags the room you are in based on the objects in the image},
+  title = {Roomie: An embodied agent that tags the room you are in based on the objects in the image},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
