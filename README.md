@@ -4,7 +4,7 @@
  - Python 3.9
  - Torchvision
  - Torch
- - Ultralytics
+ - Ultralytics (Make sure you also download the dependecies: https://docs.ultralytics.com/reference/data/annotator/)
  - OpenAI
    
 Note:
