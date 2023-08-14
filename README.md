@@ -7,7 +7,8 @@
  - Ultralytics (Make sure you also download the dependecies: https://docs.ultralytics.com/reference/data/annotator/) as ``pip install ultralytics``
  - OpenAI as ``pip install openai``
    
-Note:
+# Note
+
 1. Yolov8.pt and SAM_L.pt will be downloaded (automatically). You may use the base SAM model. The code is optimised for CUDA enabled GPU, change the parameters, as you deem fit. Make sure you have sufficient memory on disk.
 
 2. Images used for demo are scraped off the internet, the copyright lies with the creators. 
