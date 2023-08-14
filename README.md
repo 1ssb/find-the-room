@@ -1,4 +1,4 @@
-# Froom: An embodied agent which tags which room you are in from the objects in the image using Automated Annotations, ChatGPT prompt engineering.
+# Roomie: An embodied agent which tags which room you are in from the objects in the image using Automated Annotations, ChatGPT prompt engineering.
 
 # Requirements
  - Python 3.9
