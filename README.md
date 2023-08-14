@@ -14,6 +14,6 @@ Froom uses ChatGPT-GPT-3.5-turbo, with a prompt engineered for regularized expre
 Upload images to the ./image/ path. If you encounter any issues, feel free to open an issue on the repository or send an email to Subhransu.Bhattacharjee@anu.edu.au.
 
 # Acknowledgements
-Images used are from the internet. Copyright belongs to the creators.
+Images used are from the internet. Image copyright belongs to the creators.
 
 
