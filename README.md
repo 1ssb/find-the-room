@@ -8,11 +8,9 @@
  - OpenAI as ``pip install openai``
    
 Note:
-1. Yolov8.pt and SAM_L.pt will be downloaded (automatically). You may use the base SAM model. The code is optimised for CUDA enabled GPU, change the parameters, as you deem fit.
+1. Yolov8.pt and SAM_L.pt will be downloaded (automatically). You may use the base SAM model. The code is optimised for CUDA enabled GPU, change the parameters, as you deem fit. Make sure you have sufficient memory on disk.
 
-2. Froom uses ChatGPT-GPT-3.5-turbo, with a prompt engineered for regularized expressions.
-
-3. Images used for demo are scraped off the internet, the copyright lies with the creators. 
+2. Images used for demo are scraped off the internet, the copyright lies with the creators. 
 
 # Usage
  - Clone this repository: ``git clone https://github.com/1ssb/roomie.git``
