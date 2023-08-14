@@ -14,13 +14,13 @@ Froom uses ChatGPT-GPT-3.5-turbo, with a prompt engineered for regularized expre
 # Usage
  - Clone this repository.
  - Make sure you have pip installed the above requirements. Be specifically careful about the python version.
- - Make sure you replace the openai api id with your own in froom.py.
- - Create a directrory ./images. Upload images to the ./image/ directory.
+ - Make sure you replace the openai api id with your own in froom.py. Follow this link: https://elephas.app/blog/how-to-get-chatgpt-api-key-clh93ii2e1642073tpacu6w934j
+ - Create a directory ./images under root. Upload images to the ./images/ directory.
 
 If you encounter any issues, feel free to open an issue on the repository or send an email to Subhransu.Bhattacharjee@anu.edu.au.
 
 # Citation
-
+``python
 @misc{froom,
   author = {Subhransu Bhattacharjee},
   title = {Froom: An embodied agent that tags the room you are in based on the objects in the image},
@@ -29,7 +29,7 @@ If you encounter any issues, feel free to open an issue on the repository or sen
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/1ssb/froom/}}
 }
-
+``
 
 
 
