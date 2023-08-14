@@ -6,6 +6,7 @@
  - Torch
  - Ultralytics
  - OpenAI
+ - Yolov8.pt and SAM_L.pt will be downloaded (automatically).
 
 Froom uses ChatGPT-GPT-3.5-turbo, with a prompt engineered for regularized expressions.
 
