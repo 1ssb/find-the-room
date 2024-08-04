@@ -15,8 +15,8 @@
 
 # Usage
  - Clone this repository: ``git clone https://github.com/1ssb/roomie.git``
- - Make sure you have pip installed the above requirements. Be specifically careful about the python version.
- - Make sure you replace the openai api id with your own in froom.py.
+ - Make sure you have pip installed the above requirements. Be specifically careful about the python version. Select reattempt configuration based on the automated structure.
+ - Make sure you replace the openai api id with your own in roomie.py.
  - Upload images to the ./images/ directory.
 
 If you encounter any issues, feel free to open an issue on the repository or send an email to Subhransu.Bhattacharjee@anu.edu.au.
