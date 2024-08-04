@@ -21,17 +21,5 @@
 
 If you encounter any issues, feel free to open an issue on the repository or send an email to Subhransu.Bhattacharjee@anu.edu.au.
 
-# Citation
-``
-@misc{froom,
-  author = {Subhransu Bhattacharjee},
-  title = {Roomie: An embodied agent that tags the room you are in based on the objects in the image},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/1ssb/roomie/}}
-}
-``
-
 
 
